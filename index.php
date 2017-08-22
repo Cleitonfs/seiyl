@@ -46,3 +46,4 @@
 
 <?php include(FOOTER_TEMPLATE); ?>
 
+<!-- Bla --!>
